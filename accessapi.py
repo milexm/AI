@@ -16,8 +16,11 @@ def simple_question():
         determine if the infrastructure is in place to communicate
         with ChatGPT via the OpenAI API.  
      """
-    # Assign your private OpenAI API key 
-    # for authenntication. 
+    # Assign your private OpenAI API key for authenntication.  On my Windows
+    # machine, I defined a system variable called: `OpenAI_API_Key``, to which I
+    # assigned the secret key as its value. As long as I run the Python apps on
+    # my machine, I can use this approach to keep the key hidden.  
+ 
     openai.api_key = os.environ['OpenAI_API_Key']
 
     # Simple prompt or question to ask. 
