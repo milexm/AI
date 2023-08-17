@@ -3,7 +3,7 @@ import logging
 import azure.functions as func
 import openai 
 
-secret_key = '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'
+secret_key = '<your secret key>'
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     # The following is a sample request, in JSON format, you can use to test
