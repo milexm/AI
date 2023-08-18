@@ -1,4 +1,4 @@
-# AI
+# Artificial Intelligence
 
 ![AI](media/ai_icon.png)
 
