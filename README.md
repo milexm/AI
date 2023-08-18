@@ -1,6 +1,6 @@
 # AI
 
-![AI](media\ai_icon.png)
+![AI](media/ai_icon.png)
 
  Artificial Intelligence (AI) is a branch of computer science and a
  multidisciplinary field that deals with the development of intelligent machines
