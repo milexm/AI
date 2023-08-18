@@ -12,16 +12,6 @@
  `reason`, `perceive` their environment, and `make decisions` to achieve specific
  goals.
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-
 AI can be broadly categorized into two main types:
 
 > [!NOTE]  
