@@ -13,10 +13,6 @@
 ``higlight``
 > test
 
-<mark> mark it </mark>
-
-> [!NOTE]
-> This is a note
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
@@ -26,3 +22,10 @@
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
+
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ </picture>
