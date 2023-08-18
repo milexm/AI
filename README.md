@@ -19,6 +19,9 @@ AI can be broadly categorized into two main types:
 
 > [!WARNING]  
 > **General or Strong AI**. This type of AI is hypothetical and refers to machines that possess human-level intelligence. General AI would have the ability to understand, learn, and apply knowledge in a manner similar to humans across various domains. As of now, true general AI does not exist, and its development remains a subject of research and speculation.
+> 
+> Despite its numerous benefits, AI also raises `ethical` and `societal concerns`, such as privacy, job displacement, bias in algorithms, and potential misuse of AI technologies.
+
 
 
 ## References
