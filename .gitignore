@@ -153,8 +153,8 @@ cython_debug/
 
 # Other
 ~$AI.pptx
-.$AI.drawio.bkp
-.$AI.drawio.dtmp
 
 *.bkp
 media/.$AI.drawio.bkp
+media/.$AI.drawio.dtmp
+
