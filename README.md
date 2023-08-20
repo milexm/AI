@@ -22,7 +22,20 @@ AI can be broadly categorized into two main types:
 > 
 > Despite its numerous benefits, AI also raises `ethical` and `societal concerns`, such as privacy, job displacement, bias in algorithms, and potential misuse of AI technologies.
 
+## About the repo
 
+This repo shows practical examples on how to use [OpenaAi](https://openai.com/) API. In particular, it shows how to use the OpenAI components.
+
+![openai_components](media/openAI_components.png)
+
+Where
+
+- **ChatGPT**. This is a web conversational interface that allows you to interact with ChatGPT language models.
+- **DALL-E**. It allows you to create realistic images and art from the description you provide.
+- **API**. It allows you to integrate OpenAI models into your apps.
+
+> [!NOTE]
+> ChatGPT stands for **Chat Generative Pre-trained Transformer**.
 
 ## References
 
