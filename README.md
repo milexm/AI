@@ -2,6 +2,13 @@
 
 ![AI](media/ai_icon.png)
 
+- [1. Overview](#1-overview)
+- [2. About the repo](#2-about-the-repo)
+- [3. References](#3-references)
+  - [3.1. Supporting GitHub techniques](#31-supporting-github-techniques)
+
+## 1. Overview
+
  Artificial Intelligence (AI) is a branch of computer science and a
  multidisciplinary field that deals with the development of intelligent machines
  and systems capable of performing tasks that typically require human
@@ -22,7 +29,7 @@ AI can be broadly categorized into two main types:
 > 
 > Despite its numerous benefits, AI also raises `ethical` and `societal concerns`, such as privacy, job displacement, bias in algorithms, and potential misuse of AI technologies.
 
-## About the repo
+## 2. About the repo
 
 This repo shows practical examples on how to use [OpenaAi](https://openai.com/) API. In particular, it shows how to use the OpenAI components.
 
@@ -54,10 +61,14 @@ For the creation and testing of the examples, you need to have the following:
 
 Find all the supporting information in the companion document [Artificial Intelligence](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub) 
 
-## References
+## 3. References
 
-- [OpenaAi](https://openai.com/)
+- [Artificial Intelligence](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub) - Supporting information in the companion document
+- [OpenaAI](https://openai.com/)
 - [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/)
+
+### 3.1. Supporting GitHub techniques
+
 - [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons)
 - [[Markdown] An option to highlight a "Note" and "Warning" using blockquote (Beta)](https://github.com/orgs/community/discussions/16925)
