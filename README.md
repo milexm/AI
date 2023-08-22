@@ -46,18 +46,22 @@ Where
 
 One of the sources of the examples shown here is the Udemy class: [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/).
 
-The following figure shows the example execution environment.
+The following figure shows the examples execution environment.
 
 ![example execution environment](media/example_execution_environment.png)
 
 The user can interact with OpenAI API from the *localhost* for testing and use the [Azure Functions](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.ib4yzunwqg7n) in production to interact with OpenAI API in a serveless fashion.
 
-For the creation and testing of the examples, you need to have the following:
+To create and test the examples shown, you need the following tools and settings:
 
-- The Visual Studio Code installed on your computer
-- A Postman account
-- An OpenAI account
-- An Axure account
+- OpenAI account
+- Visual Studio Code installed
+- Axure account (Azure Functions)
+- Postman account
+
+The applications we'll build have the following architecture:
+
+![app architecture](media/app_components.png)
 
 Find all the supporting information in the companion document [Artificial Intelligence](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub) 
 
