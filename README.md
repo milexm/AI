@@ -77,7 +77,7 @@ Find all the supporting information in the companion document [Artificial Intell
 
 - [Artificial Intelligence](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub) - Supporting information in the companion document
 - [OpenaAI](https://openai.com/)
-- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/)
+- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/){:target="_blank" rel="noopener"}
 
 ### 4.1. Supporting GitHub techniques
 
