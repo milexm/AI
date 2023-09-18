@@ -49,7 +49,7 @@ One of the sources of the examples shown here is the Udemy class: [ChatGPT Maste
 
 The following figure shows the examples execution environment.
 
-![example execution environment](media/example_execution_environment.png)
+![example production environment](media/chatgpt_production_environment.png)
 
 The user can interact with OpenAI API from the *localhost* for testing and use the [Azure Functions](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.ib4yzunwqg7n) in production to interact with OpenAI API in a serveless fashion.
 
