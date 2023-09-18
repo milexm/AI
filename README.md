@@ -62,7 +62,7 @@ To create and test the examples shown, you need the following tools and settings
 
 The applications we'll build have the following architecture:
 
-![app architecture](media/app_components.png)
+![app architecture](media/chatgpt_production_environment.png)
 
 
 ## 3. Preliminary steps
