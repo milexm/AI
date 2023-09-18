@@ -4,8 +4,9 @@
 
 - [1. Overview](#1-overview)
 - [2. About the repo](#2-about-the-repo)
-- [3. References](#3-references)
-  - [3.1. Supporting GitHub techniques](#31-supporting-github-techniques)
+- [3. Preliminary steps](#3-preliminary-steps)
+- [4. References](#4-references)
+  - [4.1. Supporting GitHub techniques](#41-supporting-github-techniques)
 
 ## 1. Overview
 
@@ -54,24 +55,31 @@ The user can interact with OpenAI API from the *localhost* for testing and use t
 
 To create and test the examples shown, you need the following tools and settings:
 
-- OpenAI account
-- Visual Studio Code installed
-- Axure account (Azure Functions)
-- Postman account
+- OpenAI account. See [OpenAI API Login](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.5jazbqlah7h) and [OpenAI billing](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.97grw0z9k5kf).
+- Visual Studio Code. See [Setup Visual Studio Code](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.9gpup0bkzoyl).
+- Azure account. See [Setup Azure Functions](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.8h95unq36ppy).
+- [Postman account]. See [Testing Azure function using Postman](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.qdyr4jg1ik0r). 
 
 The applications we'll build have the following architecture:
 
 ![app architecture](media/app_components.png)
 
+
+## 3. Preliminary steps
+
+1. [Accessing ChatGPT API](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.xnk73scuad4p). The first thing we want to do is to verify that we can access the ChatGPT API.
+2. [Create a basic Azure function](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.r6ygtw61ibtg). We create a basic Azure function that we test locally. Then we’ll deploy it to the cloud and test it there.  
+3. [Create a basic Azure function that uses ChatGPT API](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.6x9c734qltql). Now that we have the plumbing in place and tested it, we create a basic Azure function to interact with OpenAI ChatGPT API.
+
 Find all the supporting information in the companion document [Artificial Intelligence](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub) 
 
-## 3. References
+## 4. References
 
 - [Artificial Intelligence](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub) - Supporting information in the companion document
 - [OpenaAI](https://openai.com/)
 - [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/)
 
-### 3.1. Supporting GitHub techniques
+### 4.1. Supporting GitHub techniques
 
 - [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons)
