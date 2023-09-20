@@ -2,9 +2,8 @@
 
 ![AI](media/ai_icon.png)
 
-![picture by AI](media/picture_by_ai.png)
-
 - [1. Overview](#1-overview)
+  - [1.1. Picture by AI](#11-picture-by-ai)
 - [2. About the repo](#2-about-the-repo)
 - [3. Preliminary steps](#3-preliminary-steps)
 - [4. References](#4-references)
@@ -31,6 +30,10 @@ AI can be broadly categorized into two main types:
 > **General or Strong AI**. This type of AI is hypothetical and refers to machines that possess human-level intelligence. General AI would have the ability to understand, learn, and apply knowledge in a manner similar to humans across various domains. As of now, true general AI does not exist, and its development remains a subject of research and speculation.
 > 
 > Despite its numerous benefits, AI also raises `ethical` and `societal concerns`, such as privacy, job displacement, bias in algorithms, and potential misuse of AI technologies.
+
+### 1.1. Picture by AI
+
+![picture by AI](media/picture_by_ai.png)
 
 ## 2. About the repo
 
