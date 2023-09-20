@@ -47,9 +47,9 @@ Where
 
 One of the sources of the examples shown here is the Udemy class: [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/).
 
-The following figure shows the examples execution environment.
+The following figure shows the examples development environment.
 
-![example production environment](media/chatgpt_production_environment.png)
+![example production environment](media/chatgpt_dev_environment.png)
 
 The user can interact with OpenAI API from the *localhost* for testing and use the [Azure Functions](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.ib4yzunwqg7n) in production to interact with OpenAI API in a serveless fashion.
 
@@ -60,7 +60,7 @@ To create and test the examples shown, you need the following tools and settings
 - Azure account. See [Setup Azure Functions](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.8h95unq36ppy).
 - [Postman account]. See [Testing Azure function using Postman](https://docs.google.com/document/d/e/2PACX-1vQJ4SRjtxJneZQ9cHzVHvgby8H7HScbznm04Q7fFn4DDjDbfgiP57De2rJgRo-yAHV19g0XtuTTadX3/pub#h.qdyr4jg1ik0r). 
 
-The applications we'll build have the following architecture:
+The applications we'll build have the following architecture (production environment)
 
 ![app architecture](media/chatgpt_production_environment.png)
 
