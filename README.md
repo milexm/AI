@@ -2,6 +2,8 @@
 
 ![AI](media/ai_icon.png)
 
+![picture by AI](media/picture_by_ai.png)
+
 - [1. Overview](#1-overview)
 - [2. About the repo](#2-about-the-repo)
 - [3. Preliminary steps](#3-preliminary-steps)
