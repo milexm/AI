@@ -8,7 +8,7 @@ secret_key = '<your OpenAI secret key>'
 def main(req: func.HttpRequest) -> func.HttpResponse:
     # The following is a sample request, in JSON format, you can use to test
     # this function.  
-    # {"model":"text-davinci-003", "prompt":"create an ad for chocolate company", "max_tokens":200, "temperature":0}
+    # {"model":"text-davinci-003", "prompt":"create an ad for a chocolate company", "max_tokens":200, "temperature":0}
     logging.info('Python HTTP trigger function processed a request.')
 
     # Set the secret key for authentication.
